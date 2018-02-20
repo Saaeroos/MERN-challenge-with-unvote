@@ -1,0 +1,63 @@
+body {
+  margin: 20px;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+hr{
+  border-top:solid 5px;
+  width: 400px;
+}
+h1{
+  color: red;
+}
+h4{
+  color: darkgreen;
+}
+.Button {
+  color: #e6e6e6;
+  background: #0a0a0a;
+  border: none;
+  font-size: 16px;
+  border-radius: 3px;
+  width: 100px;
+  text-align: center;
+  display: block;
+  padding: 7px 0;
+  margin: 10px auto;
+}
+ 
+.Button:hover:enabled {
+  background: linear-gradient(#1a1a1a,#0a0a0a);
+  color: #fff;
+  text-decoration: none;
+}
+.Button:active {
+  transform: translateY(1px);
+}
+
+.unvote-Button:active {
+  transform: translateY(1px);
+}
+.unvote-Button:hover:enabled {
+  background: linear-gradient(#cf1212,#df4d4d);
+  color: #fff;
+  text-decoration: none;
+}
+.unvote-Button {
+  color: #e6e6e6;
+  background: red;
+  border: none;
+  font-size: 16px;
+  border-radius: 3px;
+  width: 100px;
+  text-align: center;
+  display: block;
+  padding: 7px 0;
+  margin: 10px auto;
+}
+
+.first{
+  width: 1000px;
+}
