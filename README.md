@@ -6,12 +6,16 @@ I was curious about making the user vote once and then the user will be able to 
 so i worked on those features and mange to do them.
 
 
-This project was build using:  React, mongodb and mlab.
+### Technologies Used build this project: 
+* React
+* nodejs(express)
+* mongodb
+* mlab
 
+## This project was deployed using: 
+* google cloud platform(backEnd)
+* firebase(forntEnd)
 
-This project was deployed using:   google cloud platform and firebase.
-
-
-link for deployed app below:
+## link for deployed app below:
 
 https://mern-challenge-with-unvote.firebaseapp.com/
